@@ -1,4 +1,4 @@
-# Instagram-WAV
+# Instagram-WAV (Web App Version)
 
 Instagram Clone by Karl Hadwen (YouTube Tutorial)
 
